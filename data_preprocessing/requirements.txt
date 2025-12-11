@@ -1,0 +1,13 @@
+# Core canonicalization libraries
+tree-sitter==0.21.3
+tree-sitter-languages
+
+# Data Handling and Processing
+pandas
+numpy
+datasets
+tqdm
+
+# Deep Learning / NLP Libraries
+torch
+transformers
